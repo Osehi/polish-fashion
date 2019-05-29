@@ -1,0 +1,63 @@
+{
+    "stylist": [
+        {
+            "id": "1",
+            "designer": "SOFIT",
+            "style": "agbada",
+            "size": "L",
+            "color": "red",
+            "fabric": "satin",
+            "cost": "30000"
+        },
+
+        {
+            "id": "2",
+            "designer": "ROCA-WEAR",
+            "style": "senator",
+            "size": "M",
+            "color": "pink",
+            "fabric": "guinea",
+            "cost": "20000" 
+        },
+
+        {
+            "id": "3",
+            "designer": "WRANGLER",
+            "style": "buba",
+            "size": "S",
+            "color": "XL",
+            "fabric": "ankara",
+            "cost": "25000"
+        },
+
+        {
+            "id": "4",
+            "designer": "LEVIS",
+            "style": "tinko",
+            "size": "XL",
+            "color": "blue",
+            "fabric": "lace",
+            "cost": "15000"
+        }
+    ],
+    "user": [
+        {
+            "id": "1",
+            "username": "osehi",
+            "email": "accepted@gmail.com",
+            "password": "enter01*",
+            "role": "customer"
+        }
+    ],
+    "role": [
+        {
+            "id": "1",
+            "status": "customer"
+        },
+
+        {
+            "id": "2",
+            "status": "tailor"
+        }
+    ]
+}
