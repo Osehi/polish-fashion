@@ -53,6 +53,24 @@
       "fabric": "jean",
       "cost": "15000",
       "id": 6
+    },
+    {
+      "designer": "dodo amani",
+      "style": "pencil trousser",
+      "size": "L",
+      "color": "blue",
+      "fabric": "jean",
+      "cost": "10000",
+      "id": 7
+    },
+    {
+      "designer": "kish",
+      "style": "top",
+      "size": "xl",
+      "color": "pink",
+      "fabric": "satin",
+      "cost": "5000",
+      "id": 8
     }
   ],
   "user": [
@@ -92,6 +110,18 @@
       "email": "best@gmail.com",
       "password": "1234",
       "id": 6
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "username": "admin",
+      "email": "@admin",
+      "password": "01",
+      "id": 8
     }
   ],
   "role": [

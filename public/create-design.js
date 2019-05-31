@@ -15,7 +15,8 @@ $('#create').submit(function(e){
     var url = "http://localhost:3000/stylist";
     $.post(url, stylist).done(function(data){
         console.log(data);
-        //$('#result').append(data);
+        //$('#created').append(data);
         //document.write(data.toString())
+        $('#created').append('<li>designer: '+ stylist.designer +', style: '+ stylist.style +', size: '+ stylist.size +', color: '+ stylist.color +', fabric: '+ stylist.fabric +', cost: '+ stylist.cost +'</li>');
     })
 });
