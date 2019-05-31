@@ -76,11 +76,11 @@ $(document).ready(function(){
                 data.map(function(user){
                     console.log(user.username);
                     if(user.username === userName && user.email == email){
-                        alert('successful');
+                        console.log('successful');
                         sessionStorage.setItem("user", user.id);
                         window.location.href = "admin.html";
                     } else {
-                        alert("not found");
+                        console.log("not found");
                     }
                 })
             }
