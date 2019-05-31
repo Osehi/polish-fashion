@@ -64,7 +64,7 @@ $('#submit').submit(function(e){
 });
 */
 // sign up form
-$('#login').submit(function(e){
+$('#signup').click(function(e){
     e.preventDefault();
 
     var username = $('#username').val();

@@ -44,6 +44,15 @@
       "fabric": "ankara",
       "cost": "25000",
       "id": 5
+    },
+    {
+      "designer": "Kuchuchu",
+      "style": "short-sleeve",
+      "size": "XL",
+      "color": "BLUE",
+      "fabric": "jean",
+      "cost": "15000",
+      "id": 6
     }
   ],
   "user": [
@@ -71,6 +80,18 @@
       "email": "smart@gmail.com",
       "password": "123",
       "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "best",
+      "email": "best@gmail.com",
+      "password": "1234",
+      "id": 6
     }
   ],
   "role": [
